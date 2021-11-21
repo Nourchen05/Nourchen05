@@ -6,6 +6,11 @@
 const aboutMe = {
    pronouns: "she" | "her",
    code: [Javascript, HTML, CSS, Python, Java, CSharp],
+   portfulio: "https://nourchennoamenportfulio.com/"
+   askMeAbout: [
+    "webdev", "tech", "cloud", "physics",
+    "mathematics", "research"
+  ],
    technologies: {
       frontEnd: {
          js: ["React""],
