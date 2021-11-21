@@ -6,7 +6,7 @@
 const aboutMe = {
    pronouns: "she" | "her",
    code: [Javascript, HTML, CSS, Python, Java, CSharp],
-   portfulio: "https://nourchennoamenportfulio.com/"
+   portfulio: "https://nourchennoamenportfulio.com/",
    askMeAbout: [
     "webdev", "tech", "cloud", "physics",
     "mathematics", "research"
@@ -23,7 +23,7 @@ const aboutMe = {
       mobile: ["Android"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "I'm working to contribute to open source.",
 };
 
 ```
