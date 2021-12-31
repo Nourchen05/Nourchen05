@@ -8,8 +8,7 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python, Java, CSharp],
    portfulio: "https://nourchennoamenportfulio.com/",
    askMeAbout: [
-    "webdev", "tech", "cloud", "physics",
-    "mathematics", "research"
+    "webdev", "tech", "cloud", "research"
   ],
    technologies: {
       frontEnd: {
@@ -19,7 +18,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "mySQL"],
       mobile: ["Android"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
